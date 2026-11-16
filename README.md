@@ -1,4 +1,4 @@
-# He3-Diffusion-MDD-model
+# Diffusion-MDD-model
 
 The following codes in this folder are provided for the sole purpose of evaluation of an accompanying scientific paper preprint entitled ’Diffusion kinetics of 3He in pyroxene and plagioclase and applications to cosmogenic exposure dating and paleothermometry in mafic rocks’ by Marie Bergelin and three other authors. It is not licensed for any other reuse or redistribution.
 
